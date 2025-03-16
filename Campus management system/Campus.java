@@ -1,16 +1,3 @@
-/*public class Campus {
-    String Directname;
-    Department depart=new Department(Directname, null, null);
-    Address address=new Address("Lahore","Pakistan");
-    Campus(String Directname){
-      this.Directname=Directname;
-     }
-void display(){
-    System.out.println("Director name :"+Directname);
-    depart.display();
-    address.display();
-}
-}*/
 class Campus {
     String directName;
     Department depart;
