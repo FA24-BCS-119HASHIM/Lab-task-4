@@ -1,23 +1,3 @@
-/*public class Department {
-    String name;
-    Person Inch;
-    int[] depart;
-    Computer pc=new Computer(10234,"i-2345","108 GB","64-bit");
-Department(String name,Person Inch,int[] num){
-        this.name=name;
-        Inch=new Person("Shahid", 10234);
-        depart = new int[10]; 
-        for (int i = 0; i<depart.length; i++) {
-            depart[i] = i + 1; 
-        }
-}
-void display(){
-        pc.display();
-        for (int i = 0; i<depart.length; i++) {
-            System.out.println("Number at index " + i + ": " + depart[i]);
-        }
-}
-}*/
 class Department {
     String name;
     Person inch;
